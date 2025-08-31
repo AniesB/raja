@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "raja.mymastermind1.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "damansatu.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "raja"; // Ganti dengan nama workers kalian
 const apiKey = "cQFRv_i3RTZ2rXo-1Qenjeu8vE4C8pFITXdeh16O"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "mymastermind1@gmail.com"; // Ganti dengan email yang kalian gunakan
